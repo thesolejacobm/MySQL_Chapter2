@@ -1,6 +1,10 @@
 # MySQL_Chapter2
 
 # Table of Contents
+[Summary](#summary)
+[Maintainers](#maintainers)
+[New Concepts Used](#new-topics-used)
+[Console Output Example](#console-output-example)
 
 # Summary
 
