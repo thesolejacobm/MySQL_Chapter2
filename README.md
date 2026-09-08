@@ -4,7 +4,7 @@
 - [Summary](#summary)
 - [Maintainers](#maintainers)
 - [New Concepts Used](#new-concepts-used)
-- [Console Output Example](#console-output-example)
+- [Console Output Example](#output-example)
 
 # Summary
 
